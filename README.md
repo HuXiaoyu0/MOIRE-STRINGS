@@ -33,15 +33,3 @@ See examples:
    *.::.......::.......*
   *::.......::.......:*
 *********************
-                                            
-./moire.exe abcde 9 parallelogram dots_9_parallelogram.txt  
-
-         *********
-        *abcdeab*
-       *cdeabcd*
-      *eabcdea*
-     *bcdeabc*
-    *deabcde*
-   *abcdeab*
-  *cdeabcd*
-*********
