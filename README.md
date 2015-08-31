@@ -1,7 +1,7 @@
 # MOIRE-STRINGS
 Use C++ to create .txt file that contains simple but beautiful moire patterns.
 
-Valid command lines and patterns for the program:
+Valid command lines and patterns for the program:                                         
 ./moire.exe abcde 9 square abcde_9_square.txt                                       
 ./moire.exe abcde 9 right_triangle abcde_9_right_triangle.txt                               
 ./moire.exe abcde 9 isosceles_triangle abcde_9_isosceles_triangle.txt               
@@ -33,7 +33,6 @@ See examples:
    *.::.......::.......*
   *::.......::.......:*
 *********************
-
 ./moire.exe abcde 9 parallelogram dots_9_parallelogram.txt                                             
          *********
         *abcdeab*
